@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sora.Blog.Blazor", "Sora.Blog.Blazor\Sora.Blog.Blazor.csproj", "{EFAECA9E-1ACA-468A-B58D-3B5B24629274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAECA9E-1ACA-468A-B58D-3B5B24629274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAECA9E-1ACA-468A-B58D-3B5B24629274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAECA9E-1ACA-468A-B58D-3B5B24629274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAECA9E-1ACA-468A-B58D-3B5B24629274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2A4157F-A5CB-455A-9231-1AE8EF877344}
+	EndGlobalSection
+EndGlobal
